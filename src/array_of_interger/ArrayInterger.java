@@ -2,6 +2,7 @@ package array_of_interger;
 
 import java.util.Scanner;
 
+// SAI HHH
 public class ArrayInterger {
 private 	int a[]=new int [10],n;
 public void input()
